@@ -14,7 +14,7 @@
     "jest-diff": "^25.1.0",
     "prop-types": "^15.6.0",
     "query-string": "^4.2.3",
-    "react": "^15.4.1",
+    "react": "^15.6.2",
     "react-dom": "^15.4.1",
     "semver": "^5.5.0"
   },
